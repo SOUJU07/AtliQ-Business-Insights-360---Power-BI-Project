@@ -19,15 +19,19 @@ AtliQ Hardware encountered significant operational difficulties in Latin America
 - Profit & Loss Statement: Detailed financial performance analysis across markets, products, and customers.
 - Forecasting Model: Enhanced budget accuracy by setting benchmarks based on historical data.
 - Key Metrics: Gross Margin (GM), Net Profit (NP), Net Sales (NS), etc.
+
 2- Sales Dashboard
 - Customer & Product Performance: In-depth analysis of sales trends and key performance indicators.
 - Sales Metrics: Focus on Net Sales (NS) and Gross Margin percentage (GM%).
+
 3- Marketing Dashboard
 - Market Performance: Evaluation by region and product, including unit economics.
 - Marketing Metrics: Analyzed in terms of Net Sales (NS) and Gross Margin percentage (GM%).
+
 4- Supply Chain Dashboard
 - Forecast Accuracy: Monitored key supply chain metrics like forecast accuracy, net error, and absolute error percentages.
 - Supply Management: Insights into customer and product-related supply chain performance.
+
 5- Executive Dashboard
 - High-Level Overview: Real-time tracking of revenue by division, customer, product, and channel.
 - Strategic Insights: Market share analysis, trend evaluations, and top customer/product highlights.
