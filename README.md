@@ -76,3 +76,10 @@ AtliQ Hardware encountered significant operational difficulties in Latin America
 - Interactive Visuals: Utilized bookmarks, dynamic titles, and tooltips to enhance user experience.
 - Power BI Services: Deployed reports online, set up auto-refresh, and shared insights with stakeholders.
 - KPI Implementation: Applied conditional formatting and KPI indicators for quick insights.
+
+## Live Power BI Dashboard
+
+You can view the live Power BI dashboard for the AtliQ Business Insights 360° project by clicking the link below:
+
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTE2ODQzZGEtYjQxYy00NTIwLWJiMGUtYzAzNGIxNjFkYjA0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
